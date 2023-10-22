@@ -30,7 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "enum": ["TUR" , "USD"]
+        "enum": ["RUB" , "USD"]
       }
     }
   }
